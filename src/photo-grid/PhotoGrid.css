@@ -1,0 +1,16 @@
+.photo-grid-container {
+    margin: 60px auto;
+    width: 100%;
+    padding: 2%;
+}
+
+.photo-grid-container > h1 {
+    color: #000000;
+}
+
+.photo-grid {
+    margin-bottom: 25px;
+    height: 400px;
+    width: 800px;
+}
+
