@@ -1,0 +1,17 @@
+nav {
+  height: 100px;
+  width: 100%;
+  padding: 20px 36px;
+  box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+}
+
+.logo-container {
+  width: 100%;
+}
+
+.logo {
+  margin-left: auto;
+  height: 50px;
+  position: relative;
+  float: left;
+}

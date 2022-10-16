@@ -1,0 +1,29 @@
+.photo-grid-container {
+  margin: 60px auto;
+  width: 100%;
+  padding: 2%;
+  text-align: center;
+}
+
+.photo-grid-container > h1 {
+  color: #000000;
+}
+
+.photo-grid {
+  margin: 0 auto;
+  height: 400px;
+  width: 800px;
+}
+
+.photo-grid-banner {
+  margin-top: 3em;
+}
+
+.photo-grid-section {
+  width: 100%;
+}
+
+p {
+  padding: 0.8em;
+  font-family: po;
+}
